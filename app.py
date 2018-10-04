@@ -2,7 +2,6 @@ import logging
 import time
 import sys
 
-from btfxwss import BtfxWss
 from binance.client import Client
 from binance.websockets import BinanceSocketManager
 from binance.enums import *
